@@ -1,3 +1,5 @@
+//por motivos mayores a mi, no pude subir el video ya que no tenia datos en el celular para subir el video a youtube. 
+//alumna Chiara Alegre legajo 91545/2 comision 4
 let diametroCircle = 20;
 let espacioCircle = 26;
 let img;
